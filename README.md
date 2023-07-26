@@ -4,7 +4,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/claudio-marcello/)
 ##
 ![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=claudett4&show_icons=true&theme=great-gatsby)
-[![Claudio Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarcello&layout=compact)](https://https://github.com/claudett4/claudett4/edit/main/README.md)
+[![Claudio Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudett4&layout=compact)](https://https://github.com/claudett4/claudett4/edit/main/README.md)
 
 
 ## Tecnologias que eu uso no meu dia

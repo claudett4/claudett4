@@ -1,5 +1,5 @@
 ### Olá! eu sou Cláudio Marcello  📊
-Analista de Dados com experiência em desenvolvimento de Dashboards Power BI, Business Intelligence e analise de dados operacionais.
+Analista de Dados com experiência em desenvolvimento de Dashboards Power BI, Business Intelligence e analise de dados.
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
